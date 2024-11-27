@@ -40,8 +40,8 @@ Event Management System: Offer tools for organizing and managing alumni events s
 
 ## Dependencies
 
-| **Dependency**                | **Duration**  | **Budget**     |
-|-------------------------------|---------------|----------------|
+| **Dependency**                | **Duration**  | **Budget**      |
+|-------------------------------|---------------|-----------------|
 | **Mapping Service**            | 10 days       | ₹50,000        |
 | **Data Collection**            | 10 days       | ₹30,000        |
 | **Payment Gateway Integration**| 15 days       | ₹40,000        |
